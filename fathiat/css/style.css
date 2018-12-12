@@ -1,0 +1,71 @@
+
+
+
+body, html {
+	height: 100%;
+       background-color: pink;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+
+
+
+
+       }
+
+
+
+.hero-image {
+	         background-position: center;
+
+}
+   .topnav{background-color: black;
+   	overflow: hidden;}
+
+.topnav a { font-color:white;
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration:none;
+	font-size: 17px;}
+
+	.topnav a:hover {
+	background-color: #F7B906;
+	color:black;
+}
+.topnav a:active {
+	background-color: #F7B906;
+	color:white;
+}
+
+div .hero-text {text-align: center;
+    position :absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: red;
+
+
+}
+article {height: 100px; width: 800px;}
+h2 { font-size: 566%; font-style: italic;font-family: arial ;color: rgb(66,244,235);margin-top: -47px;
+ }
+h3 { font-family: inherit; font-size: 39px; font-family:serif; ; color: #d8d8d8 }
+
+.fashion { 
+	/*float:right;*/
+	text-align: center;
+	margin-top: 187px;
+
+
+
+ }
+ div  {font-size:x-large;
+         font-family: serif, helvetica, sans-serif;
+         text-decoration-color: yellow;
+}
+
+
+
